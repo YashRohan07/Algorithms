@@ -45,7 +45,7 @@ int main()
 
 
     cout<<"No Of Swap: "<< No_Of_swap<<endl;
-    cout<<"NO Of Comparison: "<<comp<<endl;
+    cout<<"NO Of Comparison: "<<comp-temp<<endl;
 
      cout<<"Sorted Array : ";
      for(int i=0; i<n; i++)
